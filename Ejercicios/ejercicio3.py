@@ -1,6 +1,6 @@
 import threading#Este módulo nos permite trabajar con hilos
 
-# Semáforos
+
 semaforo_1 = threading.Semaphore(0) #Creamos los dos semáforos necesarios
 semaforo_2 = threading.Semaphore(0)
 
